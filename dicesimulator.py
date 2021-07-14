@@ -1,8 +1,5 @@
 #dice simulator
-#rock paper scissor
-#vocab notifier
-#image editor
-#desktop assistant
+
 import random
 
 def diceing():
